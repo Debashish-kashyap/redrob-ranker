@@ -19,7 +19,7 @@ team_members:
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+github_repo: "https://github.com/Debashish-kashyap/redrob-ranker"
 
 sandbox_link: "https://huggingface.co/spaces/Debashish001/redrob-ranker"
 
