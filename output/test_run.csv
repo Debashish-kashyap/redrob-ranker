@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.743652,"Recommendation Systems Engineer at Swiggy with 6.0yr experience; 10 JD-relevant skills: Embeddings, Pinecone, scikit-learn, Feature Engineering, Hugging Face Transformers. Concerns: high response rate (91%)."
+CAND_0000001,2,0.331920,Backend Engineer at Mindtree (6.9yr); 'Backend Engineer' — strong AI/ML/Search title. Concerns: low response rate (34%); outside India (Canada).
+CAND_0000010,3,0.222961,Data Engineer at Ola (4.6yr); 'Data Engineer' — strong AI/ML/Search title. Concerns: notice period 120d; outside India (UK).
+CAND_0000023,4,0.219942,Software Engineer at Acme Corp (3.7yr); 'Software Engineer' — strong AI/ML/Search title. Concerns: inactive 82d (borderline); outside India (USA).
+CAND_0000027,5,0.219931,DevOps Engineer at Infosys (3.9yr); neutral title 'DevOps Engineer'. Concerns: notice period 90d.
+CAND_0000014,6,0.214820,Frontend Engineer at Zomato (8.4yr); neutral title 'Frontend Engineer'. Concerns: notice period 90d; inactive 76d (borderline).
+CAND_0000035,7,0.169265,Full Stack Developer at Globex Inc (4.3yr); 'Full Stack Developer' — strong AI/ML/Search title. Concerns: inactive 141d (concerning).
+CAND_0000015,8,0.144352,Software Engineer at Razorpay (5.4yr); 'Software Engineer' — strong AI/ML/Search title. Concerns: notice period 90d; inactive 135d (concerning).
+CAND_0000025,9,0.141784,Frontend Engineer at Tech Mahindra (7.3yr); neutral title 'Frontend Engineer'. Concerns: notice period 120d; inactive 89d (borderline).
+CAND_0000048,10,0.135029,Mobile Developer at CRED (9.7yr); neutral title 'Mobile Developer'. Concerns: notice period 120d; inactive 82d (borderline).
+CAND_0000011,11,0.124879,QA Engineer at Pied Piper (2.0yr); neutral title 'QA Engineer'. Concerns: notice period 90d; inactive 159d (concerning).
+CAND_0000043,12,0.090992,Cloud Engineer at Swiggy (8.3yr); neutral title 'Cloud Engineer'. Concerns: notice period 120d; inactive 177d (concerning).
+CAND_0000044,13,0.070778,Frontend Engineer at Tech Mahindra (5.7yr); neutral title 'Frontend Engineer'. Concerns: notice period 90d; inactive 198d (likely unavailable).
+CAND_0000018,14,0.065647,Frontend Engineer at Acme Corp (6.6yr); neutral title 'Frontend Engineer'. Concerns: notice period 120d; inactive 129d (concerning).
+CAND_0000038,15,0.036615,Title 'Java Developer' at Swiggy is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 88d (borderline).
+CAND_0000045,16,0.029785,Title 'Project Manager' at Initech is off-domain for Senior AI Engineer. Concerns: inactive 64d (borderline).
+CAND_0000039,17,0.028494,Title 'Marketing Manager' at Acme Corp is off-domain for Senior AI Engineer. Concerns: inactive 70d (borderline).
+CAND_0000007,18,0.027938,"Title 'Civil Engineer' at Wipro is off-domain for Senior AI Engineer. Positives: not open to work; preferred location (Gurgaon, Haryana)."
+CAND_0000021,19,0.027475,Title 'Project Manager' at Wipro is off-domain for Senior AI Engineer. Concerns: inactive 218d (likely unavailable).
+CAND_0000032,20,0.024167,Title '.NET Developer' at Cognizant is off-domain for Senior AI Engineer. Concerns: notice period 150d; inactive 180d (concerning).
+CAND_0000024,21,0.022125,Title 'HR Manager' at TCS is off-domain for Senior AI Engineer. Concerns: inactive 158d (concerning).
+CAND_0000019,22,0.022123,"Title 'Project Manager' at Wayne Enterprises is off-domain for Senior AI Engineer. Concerns: low response rate (34%); India (Trivandrum, Kerala), not willing to relocate."
+CAND_0000049,23,0.021572,Title 'Mechanical Engineer' at Wayne Enterprises is off-domain for Senior AI Engineer. Concerns: notice period 120d; outside India (Germany).
+CAND_0000022,24,0.019074,Title 'Mechanical Engineer' at Hooli is off-domain for Senior AI Engineer. Concerns: notice period 150d; low response rate (27%).
+CAND_0000013,25,0.017279,Title 'Civil Engineer' at Globex Inc is off-domain for Senior AI Engineer. Concerns: inactive 93d (concerning); outside India (UAE).
+CAND_0000046,26,0.016437,"Title 'Mechanical Engineer' at Hooli is off-domain for Senior AI Engineer. Concerns: inactive 127d (concerning); outside India (UK), willing to relocate."
+CAND_0000028,27,0.016033,"Title 'Operations Manager' at Wipro is off-domain for Senior AI Engineer. Concerns: inactive 88d (borderline); outside India (UAE), willing to relocate."
+CAND_0000009,28,0.015109,Title 'Mechanical Engineer' at Dunder Mifflin is off-domain for Senior AI Engineer. Concerns: notice period 150d; inactive 151d (concerning).
+CAND_0000016,29,0.015101,Title 'Accountant' at Infosys is off-domain for Senior AI Engineer. Concerns: inactive 188d (likely unavailable).
+CAND_0000050,30,0.014434,Title 'Business Analyst' at Infosys is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 248d (likely unavailable).
+CAND_0000040,31,0.014226,Title 'Customer Support' at Globex Inc is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 147d (concerning).
+CAND_0000002,32,0.014077,Title 'Operations Manager' at Wipro is off-domain for Senior AI Engineer. Concerns: inactive 227d (likely unavailable).
+CAND_0000041,33,0.013782,Title 'Operations Manager' at Hooli is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 103d (concerning).
+CAND_0000036,34,0.013386,"Title 'Project Manager' at Initech is off-domain for Senior AI Engineer. Concerns: inactive 197d (likely unavailable); India (Trivandrum, Kerala), not willing to relocate."
+CAND_0000030,35,0.013215,"Title 'Marketing Manager' at Dunder Mifflin is off-domain for Senior AI Engineer. Concerns: inactive 243d (likely unavailable); India (Kochi, Kerala), not willing to relocate."
+CAND_0000033,36,0.013167,Title 'Graphic Designer' at Wipro is off-domain for Senior AI Engineer. Concerns: inactive 92d (concerning).
+CAND_0000004,37,0.013150,Title 'Marketing Manager' at Dunder Mifflin is off-domain for Senior AI Engineer. Concerns: notice period 120d; inactive 94d (concerning).
+CAND_0000047,38,0.012325,Title 'Project Manager' at TCS is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 97d (concerning).
+CAND_0000042,39,0.012135,"Title 'HR Manager' at Wayne Enterprises is off-domain for Senior AI Engineer. Concerns: inactive 247d (likely unavailable); outside India (Germany), willing to relocate."
+CAND_0000037,40,0.012101,Title 'Business Analyst' at Stark Industries is off-domain for Senior AI Engineer. Concerns: inactive 198d (likely unavailable); outside India (UAE).
+CAND_0000034,41,0.011523,Title 'Business Analyst' at Wipro is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 175d (concerning).
+CAND_0000003,42,0.011401,Title 'Customer Support' at TCS is off-domain for Senior AI Engineer. Concerns: notice period 150d; inactive 98d (concerning).
+CAND_0000020,43,0.011284,Title 'Mechanical Engineer' at Wipro is off-domain for Senior AI Engineer. Concerns: inactive 265d (likely unavailable).
+CAND_0000005,44,0.011246,Title 'Accountant' at Stark Industries is off-domain for Senior AI Engineer. Concerns: inactive 269d (likely unavailable).
+CAND_0000026,45,0.011059,"Title 'Graphic Designer' at Initech is off-domain for Senior AI Engineer. Concerns: inactive 267d (likely unavailable); India (Kochi, Kerala), not willing to relocate."
+CAND_0000017,46,0.010737,Title 'Accountant' at Wipro is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 235d (likely unavailable).
+CAND_0000029,47,0.010722,Title 'Business Analyst' at Wipro is off-domain for Senior AI Engineer. Concerns: inactive 271d (likely unavailable).
+CAND_0000006,48,0.008646,Title 'Business Analyst' at Wayne Enterprises is off-domain for Senior AI Engineer. Concerns: notice period 150d; inactive 119d (concerning).
+CAND_0000008,49,0.008517,Title 'Operations Manager' at Wipro is off-domain for Senior AI Engineer. Concerns: notice period 90d; inactive 196d (likely unavailable).
+CAND_0000012,50,0.008385,"Title 'Operations Manager' at Stark Industries is off-domain for Senior AI Engineer. Concerns: inactive 242d (likely unavailable); India (Chandigarh, Chandigarh), not willing to relocate."
